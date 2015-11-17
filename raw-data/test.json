@@ -1,19 +1,19 @@
 {
     "items": [
         {
-            "desc": "Find a safe place",
+            "desc": "Find a new place",
             "estimatedTime": "5 minutes"
         },
         {
-            "desc": "Bring all the sweets",
+            "desc": "Bring all the tea",
             "estimatedTime": "20 minutes"
         },
         {
-            "desc": "Make dinner",
+            "desc": "Make tea",
             "estimatedTime": "30 minutes"
         },
         {
-            "desc": "Eat all",
+            "desc": "Drink it all",
             "estimatedTime": "8 hours"
         }
     ]
