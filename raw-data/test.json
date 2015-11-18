@@ -1,20 +1,20 @@
 {
     "items": [
         {
-            "desc": "Find a new place",
+            "desc": "Find a restaurant",
             "estimatedTime": "5 minutes"
         },
         {
-            "desc": "Bring all the tea",
-            "estimatedTime": "20 minutes"
+            "desc": "Make a reservation",
+            "estimatedTime": "5 minutes"
         },
         {
-            "desc": "Make tea",
+            "desc": "Get Ready",
             "estimatedTime": "30 minutes"
         },
         {
-            "desc": "Drink it all",
-            "estimatedTime": "8 hours"
+            "desc": "Have Dinner",
+            "estimatedTime": "2 hours"
         }
     ]
 }
