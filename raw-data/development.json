@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "name": "Fernando",
+            "role": "Interactive Developer"
+        },
+        {
+            "name": "Charles",
+            "role": "Interactive Developer"
+        },
+        {
+            "name": "Cein",
+            "role": "Systems Developer"
+        },
+        {
+            "name": "Eric",
+            "role": "Systems Developer"
+        },
+        {
+            "name": "Sinead",
+            "role": "Systems Developer"
+        }
+    ]
+}

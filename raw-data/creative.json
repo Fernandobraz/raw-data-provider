@@ -1,0 +1,28 @@
+{
+    "people": [
+        {
+            "name": "Adam",
+            "role": "Creative Director"
+        },
+        {
+            "name": "Abi",
+            "role": "Visual Designer"
+        },
+        {
+            "name": "Andy",
+            "role": "Senior Designer"
+        },
+        {
+            "name": "Karen",
+            "role": "Senior Designer"
+        },
+        {
+            "name": "Mike",
+            "role": "Senior Designer"
+        },
+        {
+            "name": "Tom",
+            "role": "UX Designer"
+        }
+    ]
+}
